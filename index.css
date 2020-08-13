@@ -48,13 +48,15 @@ table {
 }
 
 /* Start of my styling */
+/* */
 
 body {
-	font-style: roboto mono;
+	font-family: roboto mono;
+	background: #DDB9A3;
 }
 
 h1 {
-	font-style: chelsea market;
+	font-family: chelsea market;
 }
 
 .links nav {
@@ -80,7 +82,7 @@ h1 {
 }
 
 footer {
-	background-color: #F9E7DC;
+	background: #F9E7DC;
 	margin: 0 10 px;
     border: 1 px;
     padding: 20px;
@@ -88,11 +90,11 @@ footer {
     border-radius: 20px;
 }
 
-id .fire {
+#fire {
 	align-content: space-evenly;
 	vertical-align: middle;
 }
 
-id .camper {
+#camper {
 	align-content: space-evenly;
 }
